@@ -1,4 +1,7 @@
-![MasterHead](https://app.gemoo.com/share/image-annotation/646200308315738112?codeId=vzRWeBX1pNoq2&origin=imageurlgenerator&card=646200305471991808)
+<p align="center">
+  <img src="https://i.ibb.co/HpgytfQ/Untitled-design-1.png" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mehamood Rabban S</h1>
 <h3 align="center">MERN developer from India</h3>
 
