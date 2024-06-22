@@ -39,7 +39,7 @@
  
 ### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RabbanMehamood&theme=dark&hide_border=false"  /></p>
-
+<p>Streak Status</p>
 
 <hr>
 <p align="center">
