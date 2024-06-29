@@ -50,3 +50,4 @@
 <br><br><br><br><br>
 
 <hr>
+<p>Globalisation happened through Internet</p>
