@@ -50,4 +50,4 @@
 <br><br><br><br><br>
 
 <hr>
-<p>Globalisation happened through Internet</p>
+<p>Repositories are made public, Go through cli for cloning.</p>
