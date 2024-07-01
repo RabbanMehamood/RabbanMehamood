@@ -50,4 +50,5 @@
 <br><br><br><br><br>
 
 <hr>
+<p>Visit my portfolio</p>
 <p>Repositories are made public, Go through cli for cloning.</p>
