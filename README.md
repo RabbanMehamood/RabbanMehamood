@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/HpgytfQ/Untitled-design-1.png" alt="MasterHead">
+ [![mernlogo.jpg](https://i.postimg.cc/MTXKRp7L/mernlogo.jpg)](https://postimg.cc/S2FhbqtL)
 </p>
 
 <h1 align="center">Hi 👋, I'm Mehamood Rabban S</h1>
