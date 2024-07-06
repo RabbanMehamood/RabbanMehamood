@@ -52,5 +52,4 @@
 <hr>
 <p>Working on my Portfolio, soon u can Visit my portfolio</p>
 <p>Repositories are made public, Go through cli for cloning.</p>
-<p>Maintain streak</p>
 website for urls: https://postimages.org/
