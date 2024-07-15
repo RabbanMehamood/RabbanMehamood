@@ -51,5 +51,5 @@
 
 <hr>
 <p>Working on my Portfolio, soon u can Visit my portfolio</p>
-<p>Repositories are made public: clone</p>
+<p>Repositories are made public: clone it with url </p>
 website for urls: https://postimages.org/
