@@ -50,6 +50,5 @@
 <br><br><br><br><br>
 
 <hr>
-<p>Working on my Portfolio, soon u can Visit my portfolio</p>
-<p>Repositories are made public</p>
+<p>Visit My portfolio: <a href='https://rabban-portfolio.netlify.app/'>Click Me to visit my portfolio</a> </p>
 website for urls: https://postimages.org/
