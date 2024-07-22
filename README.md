@@ -51,4 +51,4 @@
 
 <hr>
 <p>Visit My portfolio: <a href='https://rabban-portfolio.netlify.app/'>Click Me to visit my portfolio</a> </p>
-/<p>website for urls: https://postimages.org/</p>
+/<p>website for urls:: https://postimages.org/</p>
