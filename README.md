@@ -14,7 +14,8 @@
 <a href="https://x.com/MahmoodGalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sethukumarj" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: 
+<h2>Front-end</h2>
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
