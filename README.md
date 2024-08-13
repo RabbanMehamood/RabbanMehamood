@@ -9,7 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RabbanMehamood&theme=discord&no-frame=false&no-bg=false&margin-w=7)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/MahmoodGalt" target="blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
