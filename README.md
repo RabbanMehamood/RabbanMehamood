@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋,I'm Mehamood Rabban S</h1>
-<h3 align="center">MERN Stack developer from India</h3>
+<h3 align="center">MERN Stack developer from  India</h3>
 
 
 ## 🏆 GitHub Trophies
