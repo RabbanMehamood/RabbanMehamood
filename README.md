@@ -1,5 +1,5 @@
 < p align="center">
- <img src="https://i.postimg.cc/MTXKRp7L/mernlogo.jpg)](https://postimg.cc/S2FhbqtL" />
+ <img src="https://i.postimg.cc/MTXKRp7L/mernlogo.jpg)](https://postimg.cc/S2FhbqtL"/>
 </p>
 
 <h1 align="center">Hi 👋,I'm Mehamood Rabban S</h1>
