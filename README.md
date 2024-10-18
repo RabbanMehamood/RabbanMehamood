@@ -1,4 +1,4 @@
-< p align="center">
+<p align="center">
  <img src="https://i.postimg.cc/MTXKRp7L/mernlogo.jpg)](https://postimg.cc/S2FhbqtL"/>
 </p>
 
