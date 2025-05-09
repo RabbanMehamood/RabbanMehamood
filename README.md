@@ -1,9 +1,9 @@
 <p align="center" >
- <img src="https://i.postimg.cc/MTXKRp7L/mernlogo.jpg)](https://postimg.cc/S2FhbqtL"/>
+ <img src="[https://i.postimg.cc/MTXKRp7L/mernlogo.jpg)](https://postimg.cc/S2FhbqtL](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*P8aGpuAxcVXgO4m7cByVtA.jpeg)"/>
 </p>
 
 <h1 align="center">Hi 👋,I'm Mehamood Rabban S</h1>
-<h3 align="center"> MERN Stack developer from  India</h3>
+<h3 align="center"> MEAN, MERN Stack developer from  India(Bengaluru)</h3>
 
 
 ## 🏆 GitHub Trophies
